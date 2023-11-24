@@ -17,10 +17,10 @@ main.py: Contains the JsonFileParser class for parsing JSON files and generating
 test.py: Includes test cases for the functionalities of the JsonFileParser.
 
 ### Getting Started
-Clone this repository.
-Install Python and required dependencies (e.g., unittest).
-Use the provided code snippets to parse JSON files and run the test suite.
-Feel free to explore and use the code provided for JSON parsing and testing purposes!
+- Clone this repository.
+- Install Python and required dependencies (e.g., unittest).
+- Use the provided code snippets to parse JSON files and run the test suite.
+- Feel free to explore and use the code provided for JSON parsing and testing purposes!
 
 ### Test Suite - TestJsonFileParser
 Purpose
@@ -29,9 +29,9 @@ The TestJsonFileParser class includes test cases to verify the functionality of 
 ### Running the Tests
 To run the test suite:
 
-Import the TestJsonFileParser class from main.py.
-Execute the tests using a test runner (e.g., unittest.main())
-run the test.py file
+- Import the TestJsonFileParser class from main.py.
+- Execute the tests using a test runner (e.g., unittest.main())
+- run the test.py file
 
 Example usage:
 ```python
