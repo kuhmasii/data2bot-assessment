@@ -1,0 +1,38 @@
+{
+ "user": {
+  "type": "object",
+  "tag": "",
+  "description": "",
+  "required": false
+ },
+ "time": {
+  "type": "integer",
+  "tag": "",
+  "description": "",
+  "required": false
+ },
+ "acl": {
+  "type": "array",
+  "tag": "",
+  "description": "",
+  "required": false
+ },
+ "publicFeed": {
+  "type": "false",
+  "tag": "",
+  "description": "",
+  "required": false
+ },
+ "internationalCountries": {
+  "type": "ENUM",
+  "tag": "",
+  "description": "",
+  "required": false
+ },
+ "topTraderFeed": {
+  "type": "true",
+  "tag": "",
+  "description": "",
+  "required": false
+ }
+}
